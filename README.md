@@ -3,6 +3,7 @@
 | Title                                                                               | Remark/code              |
 | ----------------------------------------------------------------------------------- | ------------------------ |
 | [Entity Framework](https://github.com/potatoscript/asp.net.5/wiki/Entity-Framework) | Object-relational mapper |
+| [OData](https://github.com/potatoscript/asp.net.5/wiki/odata)                       | Open data protocol       |
 
 GETTING STARTED
 
